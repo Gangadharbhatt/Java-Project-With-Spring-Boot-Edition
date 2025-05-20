@@ -1,8 +1,9 @@
 Target-- 
-Add function so that same question doesn't repeated until all the question were asked atleast one time
-Add function that count how many time you attempted the question what is you total score and how many time you give the wrong answer
-Upload it into github 
+Add function so that same question doesn't repeated until all the question were asked atleast one time  -=- Completed
+Add function that count how many time you attempted the question what is you total score and how many time you give the wrong answer  -=- Completed
+Upload it into github  -=- Completed 
 Update it with Spring boot Version
+After adding with spring boot generate the riddles and its hint with the help of ai 
 Add frontend also 
 Try to run it on the cloud, AWS server 
 Make complete CI/CD Pipeline 
@@ -10,7 +11,11 @@ Do Testing Also using Ai
 
 
 Today Task - 20-05-2025
-Learn what is the issue in the github 
-How can I verify by which github id i am login in local, How can I change it 
-How to update remote code from local by using another github account 
-Make push successfull *
+Learn what is the issue in the github  -=- Completed
+How can I verify by which github id i am login in local, How can I change it  -=- Completed 
+----- Sol> git remote -v (for working repo) | git config --global user.name/user.email  - help to verify the user and its email globaly 
+How to update remote code from local by using another github account   -=- Completed ( TxT -Doc Available)
+Make push successfull *  -=- Completed
+
+Task - 21-05-2025
+Convert code in into spring boot 
